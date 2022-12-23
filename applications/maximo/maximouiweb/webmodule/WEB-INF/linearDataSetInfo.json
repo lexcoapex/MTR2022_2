@@ -62,7 +62,7 @@
 			"startM": "sourcestartmeasure",
 			"endM": "sourceendmeasure",
 			"startM2": "targetstartmeasure",
-			"endM2": "targetendmeasure"
+			"endM2": "sourceendmeasure"
 		}
 	},
 	{
